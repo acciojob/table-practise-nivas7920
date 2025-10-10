@@ -1,20 +1,2 @@
 /*  your css code here. If applicable */
-  table, th, td, tr {
-            border: 1px solid black;
-            border-collapse: collapse;
-        }
-        table {
-            background-color: yellow;
-            width: 60%;
-            margin: 50px auto;
-            text-align: center;
-        }
-        caption {
-            caption-side: top;
-            font-weight: bold;
-            font-size: 1.2em;
-            padding: 10px;
-        }
-        th {
-            background-color: #f7d308;
-        }
+ 
